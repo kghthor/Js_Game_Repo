@@ -1,4 +1,4 @@
-// challenge 01 Year in Days
+// challenge 01 Year in Days 
 
 function ageInDays() {
     var birthYear = prompt('What year you born... Good friend?');
